@@ -2,13 +2,13 @@
   "name": "guia-hoteles",
   "version": "1.0.0",
   "description": "Nuestro primer proyecto de Node js",
-  "homepage": "https://bitbucket.org/alvaroesp91/guia-hoteles#readme",
+  "homepage": "https://github.com/TU_USUARIO/guia-hoteles#readme",
   "bugs": {
-    "url": "https://bitbucket.org/alvaroesp91/guia-hoteles/issues"
+    "url": "https://github.com/TU_USUARIO/guia-hoteles/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://alvaroesp91-admin@bitbucket.org/alvaroesp91/guia-hoteles.git"
+    "url": "git+https://github.com/TU_USUARIO/guia-hoteles.git"
   },
   "license": "ISC",
   "author": "Alvaro Espinoza",
