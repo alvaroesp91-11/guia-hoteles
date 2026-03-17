@@ -1,0 +1,30 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuestro primer proyecto de Node js",
+  "homepage": "https://bitbucket.org/alvaroesp91/guia-hoteles#readme",
+  "bugs": {
+    "url": "https://bitbucket.org/alvaroesp91/guia-hoteles/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://alvaroesp91-admin@bitbucket.org/alvaroesp91/guia-hoteles.git"
+  },
+  "license": "ISC",
+  "author": "Alvaro Espinoza",
+  "type": "commonjs",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.6.0",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}
